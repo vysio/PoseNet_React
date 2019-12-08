@@ -1,10 +1,10 @@
 import React from 'react'
-import Camera from './components/Camera.js'
+import Detector from './components/Detector'
 
 const App = () => {
   return (
     <div>
-      <Camera/>
+      <Detector />
     </div>
   )
 }
